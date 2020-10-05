@@ -12,3 +12,7 @@ The current module-based format required npm and browserify.
 Build with:
 
 npm run-script build
+
+
+With love and respect from Sourav Sahoo
+a software engineer enthusiast
